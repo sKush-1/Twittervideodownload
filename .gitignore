@@ -39,4 +39,4 @@ venv/
 /.vscode/
 /*.sublime-project
 /*.sublime-workspace
-/*.code-workspace
+/*code-workspacee
